@@ -30,7 +30,7 @@ class BoxWeight extends Box {
   }
   void display()
   {
-    System.out.println("the weight is is:");
+    System.out.println("the weight is is:"+we);
   }
 
 }
